@@ -1,0 +1,37 @@
+C:\Users\jayra\Desktop\Azure API\obj\Debug\net9.0\Azure API.csproj.AssemblyReference.cache
+C:\Users\jayra\Desktop\Azure API\obj\Debug\net9.0\Azure API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jayra\Desktop\Azure API\obj\Debug\net9.0\Azure API.AssemblyInfoInputs.cache
+C:\Users\jayra\Desktop\Azure API\obj\Debug\net9.0\Azure API.AssemblyInfo.cs
+C:\Users\jayra\Desktop\Azure API\obj\Debug\net9.0\Azure API.csproj.CoreCompileInputs.cache
+C:\Users\jayra\Desktop\Azure API\obj\Debug\net9.0\Azure API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\jayra\Desktop\Azure API\obj\Debug\net9.0\Azure API.sourcelink.json
+C:\Users\jayra\Desktop\Azure API\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\jayra\Desktop\Azure API\bin\Debug\net9.0\appsettings.json
+C:\Users\jayra\Desktop\Azure API\bin\Debug\net9.0\Azure API.staticwebassets.endpoints.json
+C:\Users\jayra\Desktop\Azure API\bin\Debug\net9.0\Azure API.exe
+C:\Users\jayra\Desktop\Azure API\bin\Debug\net9.0\Azure API.deps.json
+C:\Users\jayra\Desktop\Azure API\bin\Debug\net9.0\Azure API.runtimeconfig.json
+C:\Users\jayra\Desktop\Azure API\bin\Debug\net9.0\Azure API.dll
+C:\Users\jayra\Desktop\Azure API\bin\Debug\net9.0\Azure API.pdb
+C:\Users\jayra\Desktop\Azure API\bin\Debug\net9.0\Azure.AI.Inference.dll
+C:\Users\jayra\Desktop\Azure API\bin\Debug\net9.0\Azure.Core.dll
+C:\Users\jayra\Desktop\Azure API\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\jayra\Desktop\Azure API\bin\Debug\net9.0\System.ClientModel.dll
+C:\Users\jayra\Desktop\Azure API\bin\Debug\net9.0\System.Memory.Data.dll
+C:\Users\jayra\Desktop\Azure API\obj\Debug\net9.0\scopedcss\bundle\Azure API.styles.css
+C:\Users\jayra\Desktop\Azure API\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\jayra\Desktop\Azure API\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\jayra\Desktop\Azure API\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\jayra\Desktop\Azure API\obj\Debug\net9.0\staticwebassets\msbuild.Azure API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\jayra\Desktop\Azure API\obj\Debug\net9.0\staticwebassets\msbuild.Azure API.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\jayra\Desktop\Azure API\obj\Debug\net9.0\staticwebassets\msbuild.build.Azure API.props
+C:\Users\jayra\Desktop\Azure API\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.Azure API.props
+C:\Users\jayra\Desktop\Azure API\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.Azure API.props
+C:\Users\jayra\Desktop\Azure API\obj\Debug\net9.0\staticwebassets.pack.json
+C:\Users\jayra\Desktop\Azure API\obj\Debug\net9.0\Azure API.csproj.Up2Date
+C:\Users\jayra\Desktop\Azure API\obj\Debug\net9.0\Azure API.dll
+C:\Users\jayra\Desktop\Azure API\obj\Debug\net9.0\refint\Azure API.dll
+C:\Users\jayra\Desktop\Azure API\obj\Debug\net9.0\Azure API.pdb
+C:\Users\jayra\Desktop\Azure API\obj\Debug\net9.0\Azure API.genruntimeconfig.cache
+C:\Users\jayra\Desktop\Azure API\obj\Debug\net9.0\ref\Azure API.dll
+C:\Users\jayra\Desktop\Azure API\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt

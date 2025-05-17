@@ -1,0 +1,134 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "Azure API/1.0.0": {
+        "dependencies": {
+          "Azure.AI.Inference": "1.0.0-beta.5"
+        },
+        "runtime": {
+          "Azure API.dll": {}
+        }
+      },
+      "Azure.AI.Inference/1.0.0-beta.5": {
+        "dependencies": {
+          "Azure.Core": "1.46.1",
+          "System.ClientModel": "1.4.1"
+        },
+        "runtime": {
+          "lib/net8.0/Azure.AI.Inference.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.25.26404"
+          }
+        }
+      },
+      "Azure.Core/1.46.1": {
+        "dependencies": {
+          "Microsoft.Bcl.AsyncInterfaces": "8.0.0",
+          "System.ClientModel": "1.4.1",
+          "System.Memory.Data": "6.0.1"
+        },
+        "runtime": {
+          "lib/net8.0/Azure.Core.dll": {
+            "assemblyVersion": "1.46.1.0",
+            "fileVersion": "1.4600.125.25909"
+          }
+        }
+      },
+      "Microsoft.Bcl.AsyncInterfaces/8.0.0": {
+        "runtime": {
+          "lib/netstandard2.1/Microsoft.Bcl.AsyncInterfaces.dll": {
+            "assemblyVersion": "8.0.0.0",
+            "fileVersion": "8.0.23.53103"
+          }
+        }
+      },
+      "Microsoft.Extensions.DependencyInjection.Abstractions/8.0.2": {},
+      "Microsoft.Extensions.Logging.Abstractions/8.0.3": {
+        "dependencies": {
+          "Microsoft.Extensions.DependencyInjection.Abstractions": "8.0.2"
+        }
+      },
+      "System.ClientModel/1.4.1": {
+        "dependencies": {
+          "Microsoft.Extensions.Logging.Abstractions": "8.0.3",
+          "System.Memory.Data": "6.0.1"
+        },
+        "runtime": {
+          "lib/net8.0/System.ClientModel.dll": {
+            "assemblyVersion": "1.4.1.0",
+            "fileVersion": "1.400.125.25905"
+          }
+        }
+      },
+      "System.Memory.Data/6.0.1": {
+        "runtime": {
+          "lib/net6.0/System.Memory.Data.dll": {
+            "assemblyVersion": "6.0.0.1",
+            "fileVersion": "6.0.3624.51421"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Azure API/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Azure.AI.Inference/1.0.0-beta.5": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-WlXuZqwMRlckVBc8bWyNX/eOyk0fhQNK8EaqjxlZSGpHMln7qPeB3UJ7PvyoYpuVRgihW7WHLDq/GjtHyBrM5A==",
+      "path": "azure.ai.inference/1.0.0-beta.5",
+      "hashPath": "azure.ai.inference.1.0.0-beta.5.nupkg.sha512"
+    },
+    "Azure.Core/1.46.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-iE5DPOlGsN5kCkF4gN+vasN1RihO0Ypie92oQ5tohQYiokmnrrhLnee+3zcE8n7vB6ZAzhPTfUGAEXX/qHGkYA==",
+      "path": "azure.core/1.46.1",
+      "hashPath": "azure.core.1.46.1.nupkg.sha512"
+    },
+    "Microsoft.Bcl.AsyncInterfaces/8.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-3WA9q9yVqJp222P3x1wYIGDAkpjAku0TMUaaQV22g6L67AI0LdOIrVS7Ht2vJfLHGSPVuqN94vIr15qn+HEkHw==",
+      "path": "microsoft.bcl.asyncinterfaces/8.0.0",
+      "hashPath": "microsoft.bcl.asyncinterfaces.8.0.0.nupkg.sha512"
+    },
+    "Microsoft.Extensions.DependencyInjection.Abstractions/8.0.2": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-3iE7UF7MQkCv1cxzCahz+Y/guQbTqieyxyaWKhrRO91itI9cOKO76OHeQDahqG4MmW5umr3CcCvGmK92lWNlbg==",
+      "path": "microsoft.extensions.dependencyinjection.abstractions/8.0.2",
+      "hashPath": "microsoft.extensions.dependencyinjection.abstractions.8.0.2.nupkg.sha512"
+    },
+    "Microsoft.Extensions.Logging.Abstractions/8.0.3": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-dL0QGToTxggRLMYY4ZYX5AMwBb+byQBd/5dMiZE07Nv73o6I5Are3C7eQTh7K2+A4ct0PVISSr7TZANbiNb2yQ==",
+      "path": "microsoft.extensions.logging.abstractions/8.0.3",
+      "hashPath": "microsoft.extensions.logging.abstractions.8.0.3.nupkg.sha512"
+    },
+    "System.ClientModel/1.4.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-MY7eFGKp+Hu7Ciub8wigQ0odGrkml4eTjUy8d5Bu2eGAVvm8Qskkq+YuXiiS5wMJGq7iSvqseV4skd5WxTUdDA==",
+      "path": "system.clientmodel/1.4.1",
+      "hashPath": "system.clientmodel.1.4.1.nupkg.sha512"
+    },
+    "System.Memory.Data/6.0.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-yliDgLh9S9Mcy5hBIdZmX6yphYIW3NH+3HN1kV1m7V1e0s7LNTw/tHNjJP4U9nSMEgl3w1TzYv/KA1Tg9NYy6w==",
+      "path": "system.memory.data/6.0.1",
+      "hashPath": "system.memory.data.6.0.1.nupkg.sha512"
+    }
+  }
+}

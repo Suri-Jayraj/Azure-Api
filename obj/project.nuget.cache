@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "AuWIhfFR2eQ=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\jayra\\Desktop\\Azure API\\Azure API.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jayra\\.nuget\\packages\\azure.ai.inference\\1.0.0-beta.5\\azure.ai.inference.1.0.0-beta.5.nupkg.sha512",
+    "C:\\Users\\jayra\\.nuget\\packages\\azure.core\\1.46.1\\azure.core.1.46.1.nupkg.sha512",
+    "C:\\Users\\jayra\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\8.0.0\\microsoft.bcl.asyncinterfaces.8.0.0.nupkg.sha512",
+    "C:\\Users\\jayra\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.2\\microsoft.extensions.dependencyinjection.abstractions.8.0.2.nupkg.sha512",
+    "C:\\Users\\jayra\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\8.0.3\\microsoft.extensions.logging.abstractions.8.0.3.nupkg.sha512",
+    "C:\\Users\\jayra\\.nuget\\packages\\system.clientmodel\\1.4.1\\system.clientmodel.1.4.1.nupkg.sha512",
+    "C:\\Users\\jayra\\.nuget\\packages\\system.memory.data\\6.0.1\\system.memory.data.6.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
